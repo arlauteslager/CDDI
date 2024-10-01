@@ -379,8 +379,8 @@
           href="AggregationRelationship_id-8b9a3777a0b94641b0ffcef257a25fb7.xml#id-8b9a3777a0b94641b0ffcef257a25fb7"/>
     </sourceConnections>
     <bounds
-        x="658"
-        y="744"
+        x="647"
+        y="865"
         width="120"
         height="55"/>
     <archimateElement
@@ -430,8 +430,8 @@
           href="InfluenceRelationship_id-abf0b12e2da94c6e8317177eaa36e723.xml#id-abf0b12e2da94c6e8317177eaa36e723"/>
     </sourceConnections>
     <bounds
-        x="840"
-        y="708"
+        x="829"
+        y="829"
         width="181"
         height="55"/>
     <archimateElement
@@ -457,8 +457,8 @@
       textAlignment="1"
       content="afstemming over de uitvoering is niet strategisch. Waarom zitten daar directeuren in. Afstemming gebeurt nu in het BOT overleg. Daar zitten ook de stakeholder vanuit het huis is. Is esentieel&#xD;&#xA;">
     <bounds
-        x="1032"
-        y="696"
+        x="1021"
+        y="817"
         width="253"
         height="116"/>
   </children>
@@ -468,8 +468,8 @@
       textAlignment="1"
       content="waar bestaat het CDDI uit?&#xD;&#xA;">
     <bounds
-        x="1008"
-        y="840"
+        x="997"
+        y="961"
         width="185"
         height="80"/>
   </children>
@@ -487,8 +487,8 @@
           href="RealizationRelationship_id-fef6a404863f409cba030ce0d997001d.xml#id-fef6a404863f409cba030ce0d997001d"/>
     </sourceConnections>
     <bounds
-        x="539"
-        y="852"
+        x="528"
+        y="973"
         width="120"
         height="55"/>
     <archimateElement
@@ -500,8 +500,8 @@
       id="id-6a294b0ef24a40e99678f0700fb88459"
       targetConnections="id-6606c702aab144bd94c48775d75d62c3">
     <bounds
-        x="756"
-        y="903"
+        x="745"
+        y="1024"
         width="215"
         height="55"/>
     <archimateElement
@@ -513,8 +513,8 @@
       id="id-9988074f9b184c93a44bcd94428fddc4"
       targetConnections="id-029fb9bc301b437d897aeec391dcdbe7">
     <bounds
-        x="851"
-        y="840"
+        x="840"
+        y="961"
         width="120"
         height="55"/>
     <archimateElement
